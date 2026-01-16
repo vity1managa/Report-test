@@ -1,0 +1,7 @@
+user_id,username,email,full_name,task_id,task_title,task_description,task_status,task_created_at
+4,alice_brown,alice@example.com,Alice Brown,6,Conduct user interviews,Gather feedback from beta users,pending,2026-01-16 21:48:39
+3,bob_wilson,bob@example.com,Bob Wilson,5,Prepare monthly report,Compile sales data for reporting,completed,2026-01-16 21:48:39
+2,jane_smith,jane@example.com,Jane Smith,4,Fix bug in payment module,Resolve issue with payment processing,in_progress,2026-01-16 21:48:39
+2,jane_smith,jane@example.com,Jane Smith,3,Update user interface,Redesign login page,pending,2026-01-16 21:48:39
+1,john_doe,john@example.com,John Doe,1,Complete project documentation,Write comprehensive docs for the project,completed,2026-01-16 21:48:39
+1,john_doe,john@example.com,John Doe,2,Review code changes,Review PR #123,in_progress,2026-01-16 21:48:39

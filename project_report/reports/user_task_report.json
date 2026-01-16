@@ -1,0 +1,104 @@
+[
+  {
+    "user_info": {
+      "id": 4,
+      "username": "alice_brown",
+      "email": "alice@example.com",
+      "full_name": "Alice Brown",
+      "created_at": "2026-01-16 21:48:39"
+    },
+    "tasks": [
+      {
+        "id": 6,
+        "title": "Conduct user interviews",
+        "description": "Gather feedback from beta users",
+        "status": "pending",
+        "created_at": "2026-01-16 21:48:39"
+      }
+    ],
+    "task_count": 1,
+    "completed_tasks": 0,
+    "pending_tasks": 1,
+    "in_progress_tasks": 0
+  },
+  {
+    "user_info": {
+      "id": 3,
+      "username": "bob_wilson",
+      "email": "bob@example.com",
+      "full_name": "Bob Wilson",
+      "created_at": "2026-01-16 21:48:39"
+    },
+    "tasks": [
+      {
+        "id": 5,
+        "title": "Prepare monthly report",
+        "description": "Compile sales data for reporting",
+        "status": "completed",
+        "created_at": "2026-01-16 21:48:39"
+      }
+    ],
+    "task_count": 1,
+    "completed_tasks": 1,
+    "pending_tasks": 0,
+    "in_progress_tasks": 0
+  },
+  {
+    "user_info": {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "full_name": "Jane Smith",
+      "created_at": "2026-01-16 21:48:39"
+    },
+    "tasks": [
+      {
+        "id": 4,
+        "title": "Fix bug in payment module",
+        "description": "Resolve issue with payment processing",
+        "status": "in_progress",
+        "created_at": "2026-01-16 21:48:39"
+      },
+      {
+        "id": 3,
+        "title": "Update user interface",
+        "description": "Redesign login page",
+        "status": "pending",
+        "created_at": "2026-01-16 21:48:39"
+      }
+    ],
+    "task_count": 2,
+    "completed_tasks": 0,
+    "pending_tasks": 1,
+    "in_progress_tasks": 1
+  },
+  {
+    "user_info": {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "full_name": "John Doe",
+      "created_at": "2026-01-16 21:48:39"
+    },
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Complete project documentation",
+        "description": "Write comprehensive docs for the project",
+        "status": "completed",
+        "created_at": "2026-01-16 21:48:39"
+      },
+      {
+        "id": 2,
+        "title": "Review code changes",
+        "description": "Review PR #123",
+        "status": "in_progress",
+        "created_at": "2026-01-16 21:48:39"
+      }
+    ],
+    "task_count": 2,
+    "completed_tasks": 1,
+    "pending_tasks": 0,
+    "in_progress_tasks": 1
+  }
+]
