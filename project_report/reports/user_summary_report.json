@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-01-16T21:48:39.977845",
+  "summary": {
+    "total_users": 4,
+    "total_tasks": 6,
+    "task_status_breakdown": {
+      "pending": 2,
+      "in_progress": 2,
+      "completed": 2
+    }
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "full_name": "John Doe",
+      "created_at": "2026-01-16 21:48:39",
+      "updated_at": "2026-01-16 21:48:39"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "full_name": "Jane Smith",
+      "created_at": "2026-01-16 21:48:39",
+      "updated_at": "2026-01-16 21:48:39"
+    },
+    {
+      "id": 3,
+      "username": "bob_wilson",
+      "email": "bob@example.com",
+      "full_name": "Bob Wilson",
+      "created_at": "2026-01-16 21:48:39",
+      "updated_at": "2026-01-16 21:48:39"
+    },
+    {
+      "id": 4,
+      "username": "alice_brown",
+      "email": "alice@example.com",
+      "full_name": "Alice Brown",
+      "created_at": "2026-01-16 21:48:39",
+      "updated_at": "2026-01-16 21:48:39"
+    }
+  ]
+}
